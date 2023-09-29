@@ -24,7 +24,7 @@
         $htmlOutput .= '</div>';
     }
 
-    $htmlOutput .= '</div>';
+    $htmlOutput .= '</div>';  
 ?>
 
 <!DOCTYPE html>
